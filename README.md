@@ -1,1 +1,1 @@
-# simple-calculator-with-c-
+# simple-calculator-with-c++
